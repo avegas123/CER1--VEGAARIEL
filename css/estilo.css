@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("../img/tree.jpg");
+}
+
+#card-text{
+    color:black
+}
+
+p,li{
+    color: black;
+    
+    margin-right: 5%;
+    margin-left: 5%;
+}
+span{
+}
+
+header {
+
+    color: #f8e9e9;
+    padding: 10px;
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #f8e9e9;
+    width: 100%;
+    height: 100%;
+   
+}
+
+#catalogo {
+    padding: 10px;
+    color: #f8e9e9;
+}
+
+#formulario {
+    margin-top: 20px;
+    background-color: #8b765e;
+}
+
+form {
+    background-color: #cbac88;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
